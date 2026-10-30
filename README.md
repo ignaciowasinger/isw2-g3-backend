@@ -2,6 +2,8 @@
 
 Proyecto integrador de Ingeniería de Software II × Programación.
 
+INTEGRANTES: IGNACIO ALBRECHT, MAXIMO STEBLER, IGNACIO WASINGER, SEBASTIAN ZURSCHMITTER
+
 - **Backend:** Spring Boot 3.3.5, API REST, Spring Security + JWT, JPA/Hibernate y H2 en archivo.
 - **App móvil:** React Native + Expo Router (carpeta `mobile/`).
 
